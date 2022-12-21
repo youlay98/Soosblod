@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120150058127",
+    "project_id": "sosblood-c5f2c",
+    "storage_bucket": "sosblood-c5f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120150058127:android:dd0e9d58e6f37850ab3cfa",
+        "android_client_info": {
+          "package_name": "com.example.sosblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120150058127-766kgjr9q2n67irnfebnmqa2fp0amcgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0c4hksgNOwUI6AItrjiPPEQsXZTDcKeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120150058127-766kgjr9q2n67irnfebnmqa2fp0amcgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
