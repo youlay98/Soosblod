@@ -5,7 +5,7 @@ To see a video demonstration of the app, please follow the provided [link](https
 
 Below is a list of all the screens available in the app:
 
-<img src='https://user-images.githubusercontent.com/86055309/210121689-a4e4d8fb-0664-441b-a992-55a030c09fce.png' width=200>           <img src='https://user-images.githubusercontent.com/86055309/210121969-b75ed8e9-6400-4040-a96e-e8438df55196.png' width=200>       <img src='https://user-images.githubusercontent.com/86055309/210122043-4c5e6947-5783-4118-b207-3b6dd592a11f.png' width=200>       <img src='https://user-images.githubusercontent.com/86055309/210122023-63dccc81-4e06-4cb2-8fb7-9e001d4966b9.png' width=200>        
+<img src='https://user-images.githubusercontent.com/86055309/210121689-a4e4d8fb-0664-441b-a992-55a030c09fce.png' width=200>                                            <img src='https://user-images.githubusercontent.com/86055309/210121969-b75ed8e9-6400-4040-a96e-e8438df55196.png' width=200>                                          <img src='https://user-images.githubusercontent.com/86055309/210122043-4c5e6947-5783-4118-b207-3b6dd592a11f.png' width=200>                                             <img src='https://user-images.githubusercontent.com/86055309/210122023-63dccc81-4e06-4cb2-8fb7-9e001d4966b9.png' width=200>        
 <img src='https://user-images.githubusercontent.com/86055309/210122171-672c288b-3c6b-48bd-9118-b29fc542b569.png' width=200>
 
 
